@@ -1,0 +1,9 @@
+1)json
+2)pandas
+3)re
+4)numpy
+5)Word2Vec
+6)tqdm
+7)matplotlib
+8)plotly
+9)sklearn
